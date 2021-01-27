@@ -3,9 +3,11 @@ This script is used to batch verify the site's survival
 
 First, you must have a url.txt file in the same directory as survival.py in this script
 
-survival.py 
+---survival.py 
 
-url.txt
+|
+
+---url.txt
 
 And then you can run it
 
